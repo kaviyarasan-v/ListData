@@ -1,0 +1,38 @@
+.list-container{
+  padding: 20px;
+}
+
+.table-header {
+    background-color: #c6a5cd;
+    height: 35px;
+}
+
+.add-btn {
+  background-color: #00bc4be3;
+  color: white;
+  &:hover{
+    background: #63f09ce3 !important;
+    color: #000 !important;
+    border-color: #63f09ce3 !important;
+  }
+}
+
+.edit-btn {
+  background-color: #cdc604;
+  color: white;
+  &:hover{
+    background: #ebe64d !important;
+    color: #000 !important;
+    border-color: #ebe64d !important;
+  }
+}
+
+.del-btn {
+  background-color: #c60909e3;
+  color: white;
+  &:hover{
+    background: #e25c5ce3 !important;
+    color: #000 !important;
+    border-color: #e25c5ce3 !important;
+  }
+}
